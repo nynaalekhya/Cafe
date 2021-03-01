@@ -1,6 +1,6 @@
 
 
-<h2>CloudCafe</h2>
+<h2>Café</h2>
 
 
 
