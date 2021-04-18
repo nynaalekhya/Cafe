@@ -1,6 +1,6 @@
 
 
-<h2>Café</h2>
+<h2>Multi-tenant Starbucks Application</h2>
 
 # Architecture
 
